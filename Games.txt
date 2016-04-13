@@ -1,0 +1,10 @@
+All the Games can be found in the provided codeskulptor links.
+Hitting the run button will launch the game
+
+1.	Black jack Game http://www.codeskulptor.org/#user41_G44uRzG53R_50.py
+2.	Rock, papers, scissors, Lizard, Spock – the “who’s the winner” game - http://www.codeskulptor.org/#user41_8GGXQ6po6T_3.py
+3.	Guess the number Game - http://www.codeskulptor.org/#user41_gcSl2HEcbv_11.py
+4.	Stopwatch game - http://www.codeskulptor.org/#user41_4R54i4dmP1_7.py
+5.	Classic Arcade Pong game - http://www.codeskulptor.org/#user41_O9PJR42I0JP2Ebn_1.py
+6.	Space ship - http://www.codeskulptor.org/#user41_Ujp2YQHcyVM51Z8_0.py
+7.	Rice Rocks – asteroid game - http://www.codeskulptor.org/#user41_qeVJf6pn1h8udQY_0.py
